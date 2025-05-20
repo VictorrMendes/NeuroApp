@@ -1,0 +1,13 @@
+home:
+navbar
+    logo
+    artigo
+    sobre
+
+section
+    titulo
+    texto
+    autores
+    botão para artigo
+
+mudar nome do site

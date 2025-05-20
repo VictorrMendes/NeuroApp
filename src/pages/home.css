@@ -1,0 +1,18 @@
+
+.complete {
+    padding: 0 0px 0px 5px;
+    background-image: url(/public/image/back.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.container-home {
+    position: relative;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    padding: 0 5%;
+    width: 100%;
+    box-sizing: border-box;
+}

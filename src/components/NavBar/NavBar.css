@@ -1,0 +1,42 @@
+.menu {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: 0 20px;
+    width: 100%;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.menu-link ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+.menu-link li {
+    padding: 10px 5px;
+    font-size: 25px;
+}
+
+.menu a {
+    text-decoration: none;
+    border-bottom: #000000 1px solid;
+    color: #2e2d2dc5;
+    font-weight: bold;
+}
+.menu a:hover {
+    color: #1f1e1e;
+    border-bottom: #1891af 3px solid;
+}

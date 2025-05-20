@@ -1,0 +1,79 @@
+.neuro-container {
+    padding: 40px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 40px; 
+    margin-left: 10px;
+    width: 50%;
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.header h2 {
+    font-size: 1.1rem;
+    font-weight: normal;
+    letter-spacing: 3px;
+    color: #555;
+}
+
+.content {
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.text {
+    flex: 1;
+    padding: 20px;
+}
+
+.intro {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin-bottom: 30px;
+}
+
+.call {
+    font-size: 1.2rem;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+.divider {
+    height: 1px;
+    background-color: #ddd;
+    margin: 30px 0;
+    width: 80%;
+}
+
+.button {
+    background-color: #4a6fa5;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 4px;
+}
+
+.button:hover {
+    background-color: #3a5a8f;
+}
+
