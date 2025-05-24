@@ -1,42 +1,41 @@
 .menu {
-    height: 80px;
+    padding: 15px 15px;
+    background-color: #031722dc;
     display: flex;
+    justify-content: space-around;
     align-items: center;
-    justify-content: start;
-    padding: 0 20px;
     width: 100%;
-    margin-top: 20px;
-    gap: 20px;
 }
 
-.logo {
-    display: flex;
-    align-items: center;
+.logo h1 {
+    font-size: 2.5rem;
+    color: #f1f1f1e5;
+    font-family: "Playwrite DK Loopet", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    padding: 0 20px;
 }
-
-
 
 .menu-link ul {
     display: flex;
+    gap: 30%;
     list-style: none;
-    gap: 15px;
-    margin: 0;
-    padding: 0;
-    margin-bottom: 50px;
+
 }
 
-.menu-link li {
-    padding: 10px 5px;
-    font-size: 25px;
-}
-
-.menu a {
+.menu-link li a {
     text-decoration: none;
-    border-bottom: #000000 1px solid;
-    color: #2e2d2dc5;
-    font-weight: bold;
+    color: #eaebee;
+    font-size: 1.5rem;
+    cursor: pointer;
 }
-.menu a:hover {
-    color: #1f1e1e;
-    border-bottom: #1891af 3px solid;
+
+.menu-link a:hover {
+    border-bottom: #c4b891 4px solid;
+}
+
+.social-media {
+    display: flex;
+    gap: 30%
 }
