@@ -6,7 +6,7 @@
 
 ##  Objetivo
 
-O objetivo deste projeto é criar um site onde minha sobrinha possa apresentar seu trabalho sobre Neurodiversidade.
+O objetivo deste projeto é criar um site para que publicar minha pesquisa sobre Neurociência Aplicada ao Trabalho em Equipe.
 
 ## Tecnologias previstas
 
